@@ -1,0 +1,4 @@
+symbol,,Bitcoin,Ethereum,S&P 500
+Bitcoin,daily_return,1.0,,
+Ethereum,daily_return,,1.0,
+S&P 500,daily_return,,,1.0
